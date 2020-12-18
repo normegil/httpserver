@@ -1,0 +1,9 @@
+github.com/normegil/closer v0.1.0 h1:WXrset4n2s7/A1aCccebdquAXdCpnZMD+UAjBfPhPrE=
+github.com/normegil/closer v0.1.0/go.mod h1:w9Sh5KB6tmJRuuW7X/3BmmfF5OBA5IsOl1L7CdoS20g=
+github.com/normegil/connectionutils v0.0.0-20181220171258-4a33da0f3393 h1:rPmUUOtsTcplNyiU41Pv5VIHeNwWRDGNeK2R1XIpC74=
+github.com/normegil/connectionutils v0.0.0-20181220171258-4a33da0f3393/go.mod h1:HGlsbTypVbqTvXvzx9r1LhC1IxCFnt31s0iIormL5cY=
+github.com/normegil/interval v0.0.0-20181220165130-6c2976dd2323 h1:DZ8xMvvMQ0aq7psx4DqQ7rZjQEA0iIWJNMDoLtJZ/gU=
+github.com/normegil/interval v0.0.0-20181220165130-6c2976dd2323/go.mod h1:DDx4OosYtP41pLSmm3WZS2+1rRNPhKPT/v05/6jFvZY=
+github.com/normegil/toth v0.0.0-20200314192027-c3f368924c0e h1:gc4ZVBAyOocJOVW3c5WzpHFKXIom0mpzWSGr4aqt+uk=
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
